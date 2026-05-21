@@ -1,7 +1,7 @@
 var msg = "hello";
-/* console.log(msg);
- alert(msg); */
-// document.write(msg);
+console.log(msg);
+alert(msg); 
+document.write(msg);
 
 
 function run() {
